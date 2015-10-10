@@ -1,0 +1,1 @@
+This tiny helper class allows you to quickly record the audio stream coming from the Flash Player (AS3) Microphone and save this as a physical file.
